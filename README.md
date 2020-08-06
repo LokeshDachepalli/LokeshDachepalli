@@ -6,4 +6,9 @@
 - 📫 How to reach me: lokesh@amazingtricks.in
 
 
+### 📔 Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
 

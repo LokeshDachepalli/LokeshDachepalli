@@ -8,7 +8,7 @@ on:
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
-    runs-on: linux-latest
+    runs-on: Linux-latest
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master

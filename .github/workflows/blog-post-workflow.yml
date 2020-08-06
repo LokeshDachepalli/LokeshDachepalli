@@ -8,9 +8,9 @@ on:
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
-    runs-on: wordpress-latest
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: 170030262/blog-post-workflow@master
         with:
-          feed_list: "https://www.bloglovin.com/blogs/amazingtricks-20596137"
+          feed_list: "https://amazingtricks.in"

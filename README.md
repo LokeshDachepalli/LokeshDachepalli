@@ -8,11 +8,11 @@
 
 ### 📔 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to solve RSA Crypto Challenges in CTF’S..!](https://www.amazingtricks.in/how-to-solve-rsa-crypto-challenges-in-ctfs/)
 - [Make your Github Profile Stunning by reading this Article!](https://www.amazingtricks.in/make-your-github-profile-stunning-by-reading-this-article/)
 - [Top 3 Harmless Computer Pranks to Fool your Friends!](https://www.amazingtricks.in/top-3-harmless-computer-pranks-to-fool-your-friends/)
 - [Top 3 WhatsApp tricks, tips , and features you should know!](https://www.amazingtricks.in/top-3-whatsapp-tricks-tips-and-features-you-should-know/)
 - [How to create your VPN](https://www.amazingtricks.in/how-to-create-your-vpn/)
-- [Black Hat Python E-Book](https://www.amazingtricks.in/black-hat-python-e-book/)
 <!-- BLOG-POST-LIST:END -->
 
 ![Lokesh github stats](https://github-readme-stats.vercel.app/api?username=170030262&show_icons=true&theme=highcontrast&hide=Contributedto)

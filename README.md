@@ -15,11 +15,11 @@
 - [Make your Github Profile Stunning by reading this Article!](https://www.amazingtricks.in/make-your-github-profile-stunning-by-reading-this-article/)
 <!-- BLOG-POST-LIST:END -->
 
-![Lokesh github stats](https://github-readme-stats.vercel.app/api?username=170030262&show_icons=true&theme=highcontrast&hide=Contributedto)
+![Lokesh github stats](https://github-readme-stats.vercel.app/api?username=lokeshdachepalli&show_icons=true&theme=highcontrast&hide=Contributedto)
 <br>
 </br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=170030262)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshdachepalli)
 
 
 

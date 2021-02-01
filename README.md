@@ -1,8 +1,8 @@
 ### Hi there, I'm Lokesh Dachepalli 👋
 
 
-[![Website](https://img.shields.io/website?label=blankdash.ninja&style=for-the-badge&url=http%3A%2F%2Fblankdash.ninja/)](https://lokeshdachepalli.live/)
-[![Gitlab](https://img.shields.io/website?label=GitLab&style=for-the-badge&url=https%3A%2F%2Fgitlab.com/blankdash/)](https://gitlab.com/LokeshDachepalli/)
+[![Website](https://img.shields.io/website?label=lokeshdachepalli.live&style=for-the-badge&url=http%3A%2F%2Flokeshdachepalli.live/)](https://lokeshdachepalli.live/)
+[![Gitlab](https://img.shields.io/website?label=GitLab&style=for-the-badge&url=https%3A%2F%2Fgitlab.com/LokeshDachepalli/)](https://gitlab.com/LokeshDachepalli/)
 
 ## I'm a Hacker / Researcher / Student & a Progressive Noob !!
 

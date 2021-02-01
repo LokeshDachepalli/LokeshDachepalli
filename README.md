@@ -2,7 +2,7 @@
 
 
 [![Website](https://img.shields.io/website?label=lokeshdachepalli.live&style=for-the-badge&url=http%3A%2F%2Flokeshdachepalli.live/)](https://lokeshdachepalli.live/)
-[![Gitlab](https://img.shields.io/website?label=Github&style=for-the-badge&url=https%3A%2F%2Fgithud.com/LokeshDachepalli/)](https://github.com/LokeshDachepalli/)
+[![Gitlab](https://img.shields.io/website?label=Github&style=for-the-badge&url=https%3A%2F%2Fgithub.com/LokeshDachepalli/)](https://github.com/LokeshDachepalli/)
 
 ## I'm a Hacker / Researcher / Student & a Progressive Noob !!
 

@@ -11,15 +11,6 @@
 - 🤔 I’m looking for help with Ethical Hacking
 <!--- 📫 How to reach me: lokesh@amazingtricks.in-->
 - ⚡ Fun fact: I love CTF's
-
-
-### Connect with me:
-
-
-[<img align="left" alt="lokeshdachepalli.live" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
-[<img align="left" alt="UCVLXX4L63nJjgBElqKiK4wA | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />]
-[<img align="left" alt="lokeshdachepalli | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
-
 <br />
 <br />
 

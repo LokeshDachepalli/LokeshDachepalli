@@ -1,7 +1,5 @@
 ### Hi there, I'm Lokesh Dachepalli 👋
 
-
-[![Website](https://img.shields.io/website?label=lokeshdachepalli.live&style=for-the-badge&url=http%3A%2F%2Flokeshdachepalli.live/)](https://lokeshdachepalli.live/)
 [![Gitlab](https://img.shields.io/website?label=Github&style=for-the-badge&url=https%3A%2F%2Fgithub.com/LokeshDachepalli/)](https://github.com/LokeshDachepalli/)
 
 ## I'm a Hacker / Researcher / Student & a Progressive Noob !!
@@ -9,7 +7,6 @@
 - 🔭 I’m currently working on my final year project
 - 🌱 I’m currently learning everything 😜
 - 🤔 I’m looking for help with Ethical Hacking
-<!--- 📫 How to reach me: lokesh@amazingtricks.in-->
 - ⚡ Fun fact: I love CTF's
 <br />
 <br />

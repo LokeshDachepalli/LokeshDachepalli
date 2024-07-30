@@ -2,7 +2,7 @@
 
 [![Gitlab](https://img.shields.io/website?label=Github&style=for-the-badge&url=https%3A%2F%2Fgithub.com/LokeshDachepalli/)](https://github.com/LokeshDachepalli/)
 
-## I'm a Researcher / Student & a Progressive Noob !!
+## I'm a Security Researcher & a Progressive Noob !!
 
 - 🔭 I’m currently working on my final year project
 - 🌱 I’m currently learning everything 😜

@@ -38,8 +38,7 @@ Welcome to my GitHub profile! I'm a passionate penetration tester with a keen in
 
 I actively contribute to the security community by identifying and reporting vulnerabilities. Here are some notable CVEs:
 
-- **CVE-2024-XXXX**: [Description of the vulnerability and link to the report]
-- **CVE-2023-XXXX**: [Description of the vulnerability and link to the report]
+- **Patchstack Profile**: [https://patchstack.com/database/researcher/8fc28329-1091-48f0-8c7b-4a643b76debc]
 
 ## 📝 CTF Writeups
 

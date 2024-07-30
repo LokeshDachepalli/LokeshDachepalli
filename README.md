@@ -10,8 +10,6 @@ Welcome to my GitHub profile! I'm a passionate penetration tester with a keen in
 - 🌱 I’m currently learning everything 😜
 - 🤔 I’m looking for help with Ethical Hacking
 - ⚡ Fun fact: I love CTF's
-<br />
-<br />
 
 ## 🏆 Achievements
 
@@ -55,7 +53,7 @@ I enjoy participating in CTF challenges. Here are some of my writeups:
 
 Feel free to reach out to me for collaborations, discussions, or just to say hi!
 
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/lokeshdachepalli)
+- **LinkedIn**: [Lokesh Dachepalli](https://linkedin.com/in/lokeshdachepalli)
 
 ---
 

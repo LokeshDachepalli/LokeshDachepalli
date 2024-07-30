@@ -2,15 +2,28 @@
 
 [![Gitlab](https://img.shields.io/website?label=Github&style=for-the-badge&url=https%3A%2F%2Fgithub.com/LokeshDachepalli/)](https://github.com/LokeshDachepalli/)
 
+Welcome to my GitHub profile! I'm a passionate penetration tester with a keen interest in cybersecurity, ethical hacking, and network security. Here’s a bit more about me:
+
 ## I'm a Security Researcher & a Progressive Noob !!
 
 - 🔭 I’m currently working on my final year project
 - 🌱 I’m currently learning everything 😜
 - 🤔 I’m looking for help with Ethical Hacking
 - ⚡ Fun fact: I love CTF's
-<br />
-<br />
 
+## 🏆 Achievements
+
+- **Certified Ethical Hacker (CEH)**
+- **Elearn Junior Penetration Tester (EJPT)**
+
+## 🛠️ Skills and Qualifications
+
+- **Penetration Testing**: Experienced in performing comprehensive security assessments.
+- **Network Security**: In-depth knowledge of TCP, UDP, SNMP, IP, and other protocols.
+- **Scripting and Automation**: Proficient in Linux/Bash scripting, NASL scripting for OpenVAS.
+- **Vulnerability Assessment**: Skilled in using OpenVAS and Greenbone for vulnerability assessments.
+- **Web Security**: Familiar with OWASP standards and common web vulnerabilities.
+- **CTF Competitions**: Active participant in Capture The Flag (CTF) challenges.
 
 ### 📔 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -20,6 +33,31 @@
 - [Top 7 Data Science Certifications that you should know..!](https://www.amazingtricks.in/top-7-data-science-certifications-that-you-should-know/)
 - [All About Proxy Chaining](https://www.amazingtricks.in/all-about-proxy-chaining/)
 <!-- BLOG-POST-LIST:END -->
+
+## 🔍 CVEs and Vulnerability Research
+
+I actively contribute to the security community by identifying and reporting vulnerabilities. Here are some notable CVEs:
+
+- **CVE-2024-XXXX**: [Description of the vulnerability and link to the report]
+- **CVE-2023-XXXX**: [Description of the vulnerability and link to the report]
+
+## 📝 CTF Writeups
+
+I enjoy participating in CTF challenges. Here are some of my writeups:
+
+- [Hack The Box: Machine Name](https://yourblogurl.com/htb-machine-name)
+- [TryHackMe: Challenge Name](https://yourblogurl.com/thm-challenge-name)
+- [CTF Competition: Challenge Name](https://yourblogurl.com/ctf-challenge-name)
+
+## 📫 Get in Touch
+
+Feel free to reach out to me for collaborations, discussions, or just to say hi!
+
+- **LinkedIn**: [Lokesh Dachepalli](https://linkedin.com/in/lokeshdachepalli)
+
+---
+
+Thank you for visiting my profile!
 
 ![Lokesh github stats](https://github-readme-stats.vercel.app/api?username=lokeshdachepalli&show_icons=true&theme=highcontrast&hide=Contributedto)
 <br>

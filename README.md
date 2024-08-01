@@ -40,6 +40,7 @@ Welcome to my GitHub profile! I'm a passionate penetration tester with a keen in
 I actively contribute to the security community by identifying and reporting vulnerabilities. Here are some notable CVEs:
 
 - **Patchstack Profile**: [Lokesh Dachepalli](https://patchstack.com/database/researcher/8fc28329-1091-48f0-8c7b-4a643b76debc)
+- **INE Profile**: [Lokesh Dachepalli] (https://certs.ine.com/profile/lokeshdachepalli209460/wallet)
 
 ## 📝 CTF Writeups
 

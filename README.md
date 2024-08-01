@@ -13,8 +13,10 @@ Welcome to my GitHub profile! I'm a passionate penetration tester with a keen in
 
 ## 🏆 Achievements
 
-- **Certified Ethical Hacker (CEH)**
-- **Elearn Junior Penetration Tester (EJPT)**
+- **Certified Ethical Hacker (CEH)** - [Credential - ECC6971480523]
+- **Elearn Junior Penetration Tester (EJPT)** - [Credential](https://certs.ine.com/e9e0c2cd-47c9-4326-acfd-f499b608cb84#gs.cg5otl)
+- **INE Certified Cloud Associate (ICCA)** - [Credential](https://certs.ine.com/0a6f9478-f30c-4306-9f79-4f587998af4f#gs.cg570y)
+- **Oracle Certified Foundations Associate (OCI Foundations)** - [Credential](https://catalog-education.oracle.com/pls/certview/sharebadge?id=B228F12CD81A9F12D952F99AEC826A7168856667B0B1D8AA74D2CF06FC979C4B)
 
 ## 🛠️ Skills and Qualifications
 

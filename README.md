@@ -43,6 +43,7 @@ I actively contribute to the security community by identifying and reporting vul
 
 - **Patchstack Profile**: [Lokesh Dachepalli](https://patchstack.com/database/researcher/8fc28329-1091-48f0-8c7b-4a643b76debc)
 - **INE Profile**: [Lokesh Dachepalli](https://certs.ine.com/profile/lokeshdachepalli209460/wallet)
+- **Hack The Box Profile**: [HTB](https://app.hackthebox.com/profile/37457)
 
 ## 📝 CTF Writeups
 

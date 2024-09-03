@@ -2,6 +2,8 @@
 
 [![Gitlab](https://img.shields.io/website?label=Github&style=for-the-badge&url=https%3A%2F%2Fgithub.com/LokeshDachepalli/)](https://github.com/LokeshDachepalli/)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lokeshdachepalli) 
+
 Welcome to my GitHub profile! I'm a passionate penetration tester with a keen interest in cybersecurity, ethical hacking... so on. Here’s a bit more about me:
 
 ## I'm a Security Researcher & a Progressive Noob !!
@@ -59,8 +61,14 @@ Feel free to reach out to me for collaborations, discussions, or just to say hi!
 
 Thank you for visiting my profile!
 
-![Lokesh github stats](https://github-readme-stats.vercel.app/api?username=lokeshdachepalli&show_icons=true&theme=highcontrast&hide=Contributedto)
-<br>
-</br>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=lokeshdachepalli&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=lokeshdachepalli&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshdachepalli&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshdachepalli)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=lokeshdachepalli&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=lokeshdachepalli&icon=0&color=0)](https://visitcount.itsvg.in)
+

@@ -2,7 +2,6 @@
 
 [![Gitlab](https://img.shields.io/website?label=Github&style=for-the-badge&url=https%3A%2F%2Fgithub.com/LokeshDachepalli/)](https://github.com/LokeshDachepalli/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lokeshdachepalli) 
 
 Welcome to my GitHub profile! I'm a passionate penetration tester with a keen interest in cybersecurity, ethical hacking... so on. Here’s a bit more about me:
 
@@ -55,7 +54,7 @@ I enjoy participating in CTF challenges. Here are some of my writeups:
 
 Feel free to reach out to me for collaborations, discussions, or just to say hi!
 
-- **LinkedIn**: [Lokesh Dachepalli](https://linkedin.com/in/lokeshdachepalli)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lokeshdachepalli) 
 
 ---
 
